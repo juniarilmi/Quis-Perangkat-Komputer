@@ -1,0 +1,6 @@
+{
+  "name": "Kuis Informatika SMP - Perangkat Keras",
+  "description": "Kuis interaktif pembelajaran informatika kelas 7 materi perangkat keras komputer dengan sistem sesi kelas, rekap nilai guru, dan pembahasan.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
